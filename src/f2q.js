@@ -6,10 +6,11 @@ DiscordRPC.register(clientId);
 
 async function setActivity() {
     if(!RPC) return;
+
     RPC.setActivity({
         details: ``,
         state: ``,
-        startTimestamp: Date.now(),
+        startTimestamp: Date.now(), // remove this line to disable the timestamp
         largeImageKey: ``,
         largeImageText: ``,
         smallImageKey: ``,
