@@ -24,5 +24,4 @@ async function setActivity() {
 };
 ```
 ![F2q](https://user-images.githubusercontent.com/97564562/209447416-6a6f385f-2858-43e5-a0a4-69e3df1b960f.png)
-Copyright f2roq sub channel : https://www.youtube.com/c/Onclf2roq/
 ![F2q2](https://user-images.githubusercontent.com/97564562/194639848-9bdb5873-04e3-4f6a-ae73-5e11c73f282b.png)
